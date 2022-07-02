@@ -1,0 +1,9 @@
+Instructivo del Programa
+
+-1. Abrir el programa.
+-2. Correr el Programa.
+-3.Aparecerá un menú, debe elegir numericamente la opción que desea ver.
+-4.elegir la opcion deseada 	
+
+----------------------------------------------------------------------------
+Nota: se deben tener los archivos en el mismo directorio 

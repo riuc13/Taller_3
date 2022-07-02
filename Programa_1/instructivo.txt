@@ -1,0 +1,15 @@
+INSTRUCTIVO PROGRAMA 1
+
+Implementar un programa con las siguientes opciones:
+	1. Exportar el conjunto de datos gapminder en formato “xlsx”. El 10 % de los valores de las columnas lifeEx,
+	   pop, y gdpPercap se debe reemplazar de forma aleatoria por valores no asignados NA.
+	2. Importar el archivo gapminder en formato “xlsx”.
+	3. Graficar el diagrama de dispersi ́on lifeEx vs pop.
+	4. Graficar el diagrama de dispersi ́on gdpPercap vs pop.
+	5. Graficar los diagramas de cajas de la variable gdpPercap discriminados por continentes desde 1990 a 2007.
+
+
+Paso1: Abrir el archivo (taller_punto_1_python.ipynb).
+Paso2: Ejecutar el programa.
+---------------------------------------------------------------------------------------
+nota: se debe tener los archivos en el mismo directorio 

@@ -1,0 +1,12 @@
+INSTRUCTIVO PROGRAMA 3
+Paso1: Abrir el archivo
+Paso2: Ejecutar el programa.
+Paso3: Seleccionar una de las cuatro opciones que aparecen dentro del menú.
+	Opción 1: Graficar la función de densidad de una distribución uniforme.
+  	Opción 2: Graficar la función de densidad de una distribución Bernoulli. 
+  	Opción 3: Graficar la función de densidad de una distribución Poisson. 
+   	Opción 4: Graficar la función de densidad de una distribución Exponencial. 
+	Opción 5: salir
+
+---------------------------------------------------------------------------------------
+
